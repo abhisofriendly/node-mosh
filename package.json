@@ -10,7 +10,7 @@
     "mongoose": "^5.9.13",
     "morgan": "^1.10.0",
     "pug": "^2.0.4",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {},
   "scripts": {
